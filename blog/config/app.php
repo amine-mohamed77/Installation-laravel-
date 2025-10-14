@@ -66,8 +66,7 @@ return [
     | ahead and set this to a sensible default for you out of the box.
     |
     */
-
-    'timezone' => 'UTC',
+'timezone' => 'Africa/Casablanca',
 
     /*
     |--------------------------------------------------------------------------
@@ -80,7 +79,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+  'locale'   => 'fr',
 
     /*
     |--------------------------------------------------------------------------
@@ -93,8 +92,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
-
+   'fallback_locale' => 'en',
     /*
     |--------------------------------------------------------------------------
     | Faker Locale
